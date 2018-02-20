@@ -1,0 +1,6 @@
+D:\U\LongSequence\LongSequence\bin\Debug\LongSequence.exe.config
+D:\U\LongSequence\LongSequence\bin\Debug\LongSequence.exe
+D:\U\LongSequence\LongSequence\bin\Debug\LongSequence.pdb
+D:\U\LongSequence\LongSequence\obj\Debug\LongSequence.csprojResolveAssemblyReference.cache
+D:\U\LongSequence\LongSequence\obj\Debug\LongSequence.exe
+D:\U\LongSequence\LongSequence\obj\Debug\LongSequence.pdb
